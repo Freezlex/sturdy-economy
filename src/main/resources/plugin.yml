@@ -1,0 +1,5 @@
+main: com.freezlex.plugin.Main
+name: TestPlugin
+version: 1
+author: Freezlex
+website: https://freezlex.com/
